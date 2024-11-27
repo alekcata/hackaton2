@@ -8,14 +8,9 @@ body {
     font-family: Arial, sans-serif;
 }
 
-.title{
-    font-size: 2rem;
-    font-weight: 600;
-    margin-bottom: 2rem;
-}
-
 .launchpad {
     display: grid;
+    margin-left: 20px;
     grid-template-columns: repeat(3, 100px);
     grid-template-rows: repeat(2, 100px);
     gap: 20px;
