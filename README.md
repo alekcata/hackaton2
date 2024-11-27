@@ -1,2 +1,2 @@
 # hackaton2
-Stella Paolo e Catalano Alessandro
+Stella Paolo, Catalano Alessandro e Elena Molinari
